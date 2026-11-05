@@ -1,4 +1,4 @@
-## Under constuction. Stay tuned...
+## Under constuction. Stay tuned... (Will probably be updated sometime early December)
 
 <!--
 **JuneAMeans/JuneAMeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
